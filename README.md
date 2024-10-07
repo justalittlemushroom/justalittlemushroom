@@ -15,7 +15,3 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 Name: Lisa Wan
-Pronouns: She/Her
-Major: Computer Science
-Current Occupation: Student at Northeastern University
-Email: wan.lis@northeastern.edu

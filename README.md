@@ -14,6 +14,6 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
-Name: Lisa Wan
-Occupation: Computer Science Major at Northeastern University with a Foundations Concentration and Math Minor
+Name: Lisa Wan <br/>
+Occupation: Computer Science Major at Northeastern University with a Foundations Concentration and Math Minor <br/>
 Clubs/Organizations: NER, CTF, CSA

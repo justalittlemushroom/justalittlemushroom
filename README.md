@@ -15,3 +15,5 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 Name: Lisa Wan
+Occupation: Computer Science Major at Northeastern University with a Foundations Concentration and Math Minor
+Clubs/Organizations: NER, CTF, CSA

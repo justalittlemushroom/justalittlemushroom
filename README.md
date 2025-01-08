@@ -14,7 +14,7 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
-Name: Lisa Wan 
-Occupation: Honors Computer Science Major at Northeastern University
-Clubs/Organizations: NER, CTF, CSA, NUWIT
-Hackathons: Hacks for Hackers, GoatHacks, Hack for Humanity
+ - Name: Lisa Wan 
+ - Occupation: Honors Computer Science Major at Northeastern University
+ - Clubs/Organizations: NER, CTF, CSA, NUWIT
+ - Hackathons: Hacks for Hackers, GoatHacks, Hack for Humanity

@@ -44,5 +44,5 @@ Here are some ideas to get you started:
     - Listening to Podcasts (News, True Crime, Medicine, Law)
     - Dining at Local Restaurants
     - Travel
- - LinkedIn: https://www.linkedin.com/in/lisa-wan-3a6538328/
+ - LinkedIn: https://www.linkedin.com/in/lisa-wan-3a6538328/](https://www.linkedin.com/in/lisa-wan/
  - Discord: justalittlemushroominthecorner

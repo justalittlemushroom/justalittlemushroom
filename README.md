@@ -16,5 +16,14 @@ Here are some ideas to get you started:
 -->
  - Name: Lisa Wan 
  - Occupation: Honors Computer Science Major at Northeastern University
- - Clubs/Organizations: NER, CTF, CSA, NUWIT
- - Hackathons: Hacks for Hackers, GoatHacks, Hack for Humanity
+ - Clubs/Organizations:
+     - NER (Fall 2024 - )
+     - CTF (Fall 2024 - )
+     - CSA (Fall 2024 - )
+     - NUWIT (Spring 2025 - )
+     - NUHacks (Spring 2025 - )
+     - Oasis (Spring 2025 - )
+ - Hackathons:
+    - Hacks for Hackers: SmartSummarizer
+    - GoatHacks: TBD
+    - Hack for Humanity: TBD

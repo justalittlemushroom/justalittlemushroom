@@ -14,7 +14,8 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
- - Name: Lisa Wan 
+ - Name: Lisa Wan
+ - Pronouns: She/Her
  - Occupation: Honors Computer Science Major at Northeastern University
  - Clubs/Organizations:
      - NER (Fall 2024 - )
@@ -27,3 +28,20 @@ Here are some ideas to get you started:
     - Hacks for Hackers: SmartSummarizer
     - GoatHacks: TBD
     - Hack for Humanity: TBD
+ - Skills:
+    - Programming Languages:
+       - Python
+       - Java
+       - Javascript
+       - Typescript
+       - HTML
+       - CSS
+       - SQL
+    - Web Development:
+       - Frontend: React
+       - Backend: Node.js/Express
+ - Hobbies:
+       - Listening to Podcasts (News, True Crime, Medicine, Law)
+       - Dining at Local Restaurants
+       - Travel
+ - LinkedIn: https://www.linkedin.com/in/lisa-wan-3a6538328/

@@ -45,3 +45,4 @@ Here are some ideas to get you started:
     - Dining at Local Restaurants
     - Travel
  - LinkedIn: https://www.linkedin.com/in/lisa-wan-3a6538328/
+ - Discord: justalittlemushroominthecorner

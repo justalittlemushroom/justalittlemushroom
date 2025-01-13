@@ -17,18 +17,18 @@ Here are some ideas to get you started:
  - Name: Lisa Wan
  - Pronouns: She/Her
  - Occupation: Honors Computer Science Major at Northeastern University
- - Clubs/Organizations:
+ - Clubs/Organizations
      - NER (Fall 2024 - )
      - CTF (Fall 2024 - )
      - CSA (Fall 2024 - )
      - NUWIT (Spring 2025 - )
      - NUHacks (Spring 2025 - )
      - Oasis (Spring 2025 - )
- - Hackathons:
+ - Hackathons
     - Hacks for Hackers: SmartSummarizer
     - GoatHacks: TBD
     - Hack for Humanity: TBD
- - Skills:
+ - Skills
     - Programming Languages:
        - Python
        - Java
@@ -40,7 +40,7 @@ Here are some ideas to get you started:
     - Web Development:
        - Frontend: React
        - Backend: Node.js/Express
- - Hobbies:
+ - Hobbies
        - Listening to Podcasts (News, True Crime, Medicine, Law)
        - Dining at Local Restaurants
        - Travel

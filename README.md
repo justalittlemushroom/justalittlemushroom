@@ -26,7 +26,7 @@ Here are some ideas to get you started:
      - Oasis (Spring 2025 - )
  - Hackathons
     - Hacks for Hackers: SmartSummarizer
-    - GoatHacks: TBD
+    - GoatHacks: Silly Reminders
     - Hack for Humanity: TBD
  - Skills
     - Programming Languages:

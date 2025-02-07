@@ -17,17 +17,6 @@ Here are some ideas to get you started:
  - Name: Lisa Wan
  - Pronouns: She/Her
  - Occupation: Honors Computer Science Major at Northeastern University
- - Clubs/Organizations
-     - NER (Fall 2024 - )
-     - CTF (Fall 2024 - )
-     - CSA (Fall 2024 - )
-     - NUWIT (Spring 2025 - )
-     - NUHacks (Spring 2025 - )
-     - Oasis (Spring 2025 - )
- - Hackathons
-    - Hacks for Hackers: SmartSummarizer
-    - GoatHacks: SillyReminders
-    - Hack for Humanity: TBD
  - Skills
     - Programming Languages:
        - Python
@@ -40,10 +29,16 @@ Here are some ideas to get you started:
     - Web Development:
        - Frontend: React
        - Backend: Node.js/Express
+    - Mobile Development:
+       - React Native
+- Hackathons
+    - Hacks for Hackers: SmartSummarizer
+    - GoatHacks: SillyReminders
+    - HackBeanPot: TBD
  - Hobbies
     - Listening to Podcasts (News, True Crime, Medicine, Law)
     - Dining at Local Restaurants
     - Travel
-    - Transcribing Old Documents
+    - Transcribing Old Documents 
  - LinkedIn: https://www.linkedin.com/in/lisa-wan-3a6538328/](https://www.linkedin.com/in/lisa-wan/
  - Discord: justalittlemushroominthecorner

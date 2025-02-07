@@ -40,5 +40,5 @@ Here are some ideas to get you started:
     - Dining at Local Restaurants
     - Travel
     - Transcribing Old Documents 
- - LinkedIn: https://www.linkedin.com/in/lisa-wan-3a6538328/](https://www.linkedin.com/in/lisa-wan/
+ - LinkedIn: https://www.linkedin.com/in/lisa-wan/
  - Discord: justalittlemushroominthecorner

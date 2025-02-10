@@ -31,6 +31,8 @@ Here are some ideas to get you started:
        - Backend: Node.js/Express
     - Mobile Development:
        - React Native
+    - Game Development:
+    -  Unity
 - Hackathons
     - Hacks for Hackers: SmartSummarizer
     - GoatHacks: SillyReminders
@@ -39,6 +41,7 @@ Here are some ideas to get you started:
     - Listening to Podcasts (News, True Crime, Medicine, Law)
     - Dining at Local Restaurants
     - Travel
+    - Talking About Anything in CS 
     - Transcribing Old Documents 
  - LinkedIn: https://www.linkedin.com/in/lisa-wan/
  - Discord: justalittlemushroominthecorner

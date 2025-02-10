@@ -34,7 +34,7 @@ Here are some ideas to get you started:
 - Hackathons
     - Hacks for Hackers: SmartSummarizer
     - GoatHacks: SillyReminders
-    - HackBeanPot: Bean
+    - HackBeanPot: Coffee Bean's Last Road Trip
  - Hobbies
     - Listening to Podcasts (News, True Crime, Medicine, Law)
     - Dining at Local Restaurants

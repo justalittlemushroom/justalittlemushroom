@@ -32,16 +32,17 @@ Here are some ideas to get you started:
     - Mobile Development:
        - React Native
     - Game Development:
-    -  Unity
-- Hackathons
+       -  Unity
+- Projects
     - Hacks for Hackers: SmartSummarizer
     - GoatHacks: SillyReminders
     - HackBeanPot: Coffee Bean's Last Road Trip
+    - Oasis: Boston EventHandler
+- Repositories Currently Contributing To
+    - NER: FinishLine
  - Hobbies
     - Listening to Podcasts (News, True Crime, Medicine, Law)
-    - Dining at Local Restaurants
-    - Travel
-    - Talking About Anything in CS 
-    - Transcribing Old Documents 
+    - Exploring Local Culture/Travel
+    - Transcribing Historic Documents
  - LinkedIn: https://www.linkedin.com/in/lisa-wan/
  - Discord: justalittlemushroominthecorner
